@@ -1,0 +1,8 @@
+first row: filter name
+2nd row: number of images
+3rd row: chilim, ceiling, slope
+4th row: ron in adu, gain (e per adu), ystart, yend, xstart, xend 
+134
+7
+4.0   2.0   0.500
+4.3   0.16           1  1810      1  1824

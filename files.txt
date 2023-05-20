@@ -1,0 +1,7 @@
+rawfiles/data1340001.fits
+rawfiles/data1340002.fits
+rawfiles/data1340003.fits
+rawfiles/data1340004.fits
+rawfiles/data1340005.fits
+rawfiles/data1340006.fits
+rawfiles/data1340007.fits
