@@ -168,6 +168,6 @@ print(counts,  max(counts))
 for n in range(0,nframes):
    shiftx = int(np.mean(xoff)-xoff[n])
    shifty = int(np.mean(yoff)-yoff[n])
-   scale = counts[n] / max(counts) 
+   scale = max(counts) / counts[n] 
    print(names[n],shiftx,shifty, sky[n], scale)
 
